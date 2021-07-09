@@ -54,7 +54,7 @@ while x <= 4:
     x += 1
 
 
-
+#Abigael
 #creates a list of all the numbers that will be called in a randomized order.
 for i in call:
     f.write(str(i))
